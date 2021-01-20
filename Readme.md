@@ -9,4 +9,4 @@ The goal of this project is to develop a framework which is capable of clusterin
 4. Cluster the news articles using k-means clustering
 
 ## Link to the Project
-1. 
+1. https://nbviewer.jupyter.org/github/KUANCHENGFU/News-Articles-Clustering/blob/main/News_articles_clustering.ipynb
